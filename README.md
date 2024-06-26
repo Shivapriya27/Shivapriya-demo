@@ -1,3 +1,4 @@
 # Shivapriya-demo
-This is my first Git repository 
-Author-Sheri Shivapriya 
+This is my first Git repository
+<br>
+Author- Sheri Shivapriya 
